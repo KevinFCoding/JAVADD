@@ -2,28 +2,21 @@ package BASE;
 import java.util.*;
 
 
-public class Characters {
+public abstract class Characters {
 
 	protected String name;
 	int lvl;
 	int exp;
 	int life;
 	boolean caster;
-	Map<String, Integer> carac = new HashMap<String, Integer>();
-	
+	protected Map<String, Integer> carac = new HashMap<String, Integer>();
+	public static final String stats[] = {"Strength", "Dexterity", "Constitution", "Intelligence", "Wisdom", "Charisma"};
 	
 	public Characters () {
 		
-		carac.put("Strengh", 10);
-		carac.put("Dexterity", 10);
-		carac.put("Constitution",10);
-		carac.put("Intelligence",10);
-		carac.put("Wisdom",10);
-		carac.put("Charisma",10);
 		
+		for (String key : stats) {
+			carac.put(key, 10);
+		}
 	}
-	
-
-
-
 }

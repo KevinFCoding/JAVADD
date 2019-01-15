@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7ac8b36-6fcb-4323-ad1a-6bf87a674fb0" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Characters.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TypeMonsters/PowerMonsters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypeMonsters/PowerMonsters.java" afterDir="false" />
+=======
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/src/HClasses/Barbarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HClasses/Barbarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypeMonsters/TypeMonsters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypeMonsters/TypeMonsters.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Characters.java" afterDir="false" />
+>>>>>>> Stashed changes
+>>>>>>> master
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +47,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BASE/Heroes.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state>
               <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+=======
+            <state relative-caret-position="375">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -61,6 +77,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/src/HClasses/Barbarian.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -70,6 +87,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+=======
+>>>>>>> Stashed changes
         <entry file="file://$PROJECT_DIR$/src/HClasses/Bard.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -124,8 +143,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,6 +158,7 @@
         <subPane>
           <expand>
             <path>
+<<<<<<< Updated upstream
               <item name="DND" type="b2602c69:ProjectViewProjectNode" />
               <item name="DND" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -159,12 +179,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HClasses" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="DND" type="b2602c69:ProjectViewProjectNode" />
               <item name="DND" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="TypeMonsters" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+=======
+              <item name="JAVADD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVADD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVADD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVADD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> Stashed changes
+>>>>>>> master
           </expand>
           <select />
         </subPane>
@@ -177,6 +210,9 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547558513777" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,6 +237,7 @@
       <option name="presentableId" value="Default" />
       <updated>1547545592555</updated>
       <workItem from="1547545651171" duration="2743000" />
+      <workItem from="1547558014367" duration="467000" />
     </task>
     <task id="LOCAL-00001" summary="Création map">
       <created>1547548840919</created>
@@ -213,12 +250,26 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="4056000" />
+=======
+<<<<<<< Updated upstream
+    <option name="totallyTimeSpent" value="3607000" />
+>>>>>>> master
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+=======
+    <option name="totallyTimeSpent" value="3250000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19670959" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -256,6 +307,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Création map" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/BASE/Characters.java">
+<<<<<<< Updated upstream
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> master
     <entry file="file://$PROJECT_DIR$/src/BASE/Monsters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -264,6 +326,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HClasses/Bard.java">
+=======
+>>>>>>> Stashed changes
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -291,7 +355,15 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/BASE/Heroes.java">
+=======
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/src/HClasses/Barbarian.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/HClasses/Clerc.java">
+>>>>>>> Stashed changes
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
@@ -305,19 +377,133 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/TypeMonsters/TypeMonsters.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/HClasses/Wizard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TypeMonsters/TypeMonsters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TypeMonsters/PowerMonsters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HClasses/Bard.java">
+>>>>>>> Stashed changes
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/TypeMonsters/PowerMonsters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+=======
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/src/BASE/Heroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/Characters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+>>>>>>> Stashed changes
+>>>>>>> master
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_144</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DND</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
