@@ -9,7 +9,7 @@ public class Characters {
     boolean caster;
 
 
-public static void main(String[] args) {
+public setCarac(){
 
   Map<String, Integer> carac;
   carac.put("Strength",10);
