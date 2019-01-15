@@ -1,4 +1,4 @@
 package TypeMonsters;
 
-public class TypeMonsters {
+public class TypeMonsters  {
 }
