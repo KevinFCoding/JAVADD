@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7ac8b36-6fcb-4323-ad1a-6bf87a674fb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Characters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HClasses/Barbarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HClasses/Bard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HClasses/Clerc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HClasses/Wizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monsters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypeMonsters/PowerMonsters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypeMonsters/TypeMonsters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -148,23 +139,6 @@
               <item name="DND" type="b2602c69:ProjectViewProjectNode" />
               <item name="DND" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DND" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DND" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DND" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DND" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HClasses" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DND" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DND" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TypeMonsters" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -174,7 +148,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547546858612" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547547663607" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -200,12 +174,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547545592555</updated>
-      <workItem from="1547545651171" duration="994000" />
+      <workItem from="1547545651171" duration="1248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="994000" />
+    <option name="totallyTimeSpent" value="1248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
