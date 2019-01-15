@@ -1,7 +1,7 @@
 package HClasses;
 
 
-import Heroes;
+import BASE.Heroes;
 
 public class Barbarian extends Heroes {
 }

@@ -1,7 +1,8 @@
 package HClasses;
 
-import Heroes;
+import BASE.Heroes;
 
 public class Bard extends Heroes
 {
+
 }
