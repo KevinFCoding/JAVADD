@@ -71,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HClasses/Wizard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -94,7 +94,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/Monsters.java" />
         <option value="$PROJECT_DIR$/src/HClasses/Mage.java" />
-        <option value="$PROJECT_DIR$/src/HClasses/Wizard.java" />
         <option value="$PROJECT_DIR$/src/HClasses/Clerc.java" />
         <option value="$PROJECT_DIR$/src/Heroes.java" />
         <option value="$PROJECT_DIR$/src/HClasses/Bard.java" />
@@ -147,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547545592555</updated>
-      <workItem from="1547545651171" duration="1770000" />
+      <workItem from="1547545651171" duration="2743000" />
     </task>
     <task id="LOCAL-00001" summary="Création map">
       <created>1547548840919</created>
@@ -160,7 +159,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1770000" />
+    <option name="totallyTimeSpent" value="2743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -262,8 +261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HClasses/Wizard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
