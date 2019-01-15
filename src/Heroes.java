@@ -1,2 +1,5 @@
-public class Heroes {
+public class Heroes extends Characters {
+
+
+
 }

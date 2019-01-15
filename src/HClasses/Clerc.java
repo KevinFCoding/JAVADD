@@ -1,4 +1,6 @@
 package HClasses;
 
-public class Clerc {
+import Heroes;
+
+public class Clerc extends Heroes {
 }

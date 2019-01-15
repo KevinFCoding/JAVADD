@@ -1,2 +1,3 @@
-public class Monsters {
+public class Monsters extends Characters
+{
 }

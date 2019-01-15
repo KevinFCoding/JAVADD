@@ -1,4 +1,7 @@
 package HClasses;
 
-public class Bard {
+import Heroes;
+
+public class Bard extends Heroes
+{
 }

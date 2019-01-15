@@ -1,4 +1,7 @@
 package HClasses;
 
-public class Mage {
+import Heroes;
+
+
+public class Wizard extends Heroes{
 }
