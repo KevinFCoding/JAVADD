@@ -22,3 +22,6 @@ public setCarac(){
     }
 }
 
+private class Monhero{
+
+}
