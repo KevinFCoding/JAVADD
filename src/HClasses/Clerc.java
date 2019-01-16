@@ -1,4 +1,3 @@
-package HClasses;
 
 import BASE.Heroes;
 
