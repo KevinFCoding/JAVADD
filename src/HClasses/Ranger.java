@@ -1,4 +1,9 @@
+package HClasses;
 
+import java.util.HashMap;
+import java.util.Map;
+
+import BASE.Characters;
 import BASE.Heroes;
 
 

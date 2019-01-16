@@ -1,4 +1,5 @@
 import HClasses.Wizard;
+import HClasses.Ranger;
 
 public class EnterTheDungeon {
 
