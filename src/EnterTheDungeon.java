@@ -7,21 +7,21 @@ public class EnterTheDungeon {
 		
 		Wizard Kevin = new Wizard("Orc", "Forgeron");
 		
-		System.out.println("Force du personnage: " + Kevin.getCarac("Strength"));
-		System.out.println(Kevin.getCarac("Dexterity"));
-		System.out.println(Kevin.getCarac("Constitution"));
-		System.out.println(Kevin.getCarac("Intelligence"));
-		System.out.println(Kevin.getCarac("Wisdom"));
-		System.out.println(Kevin.getCarac("Charisma"));
+		System.out.println("For : " + Kevin.getCarac("Strength"));
+		System.out.println("Dex : " +Kevin.getCarac("Dexterity"));
+		System.out.println("Con : " +Kevin.getCarac("Constitution"));
+		System.out.println("Int : " +Kevin.getCarac("Intelligence"));
+		System.out.println("Sag : " +Kevin.getCarac("Wisdom"));
+		System.out.println("Cha : " +Kevin.getCarac("Charisma"));
 
 		Ranger Bob = new Ranger("Human", "Hunter");
 
-		System.out.println(Bob.getCarac("Strength"));
-		System.out.println(Bob.getCarac("Dexterity"));
-		System.out.println(Bob.getCarac("Constitution"));
-		System.out.println(Bob.getCarac("Intelligence"));
-		System.out.println(Bob.getCarac("Wisdom"));
-		System.out.println(Bob.getCarac("Charisma"));
+		System.out.println("For : " +Bob.getCarac("Strength"));
+		System.out.println("Dex : " +Bob.getCarac("Dexterity"));
+		System.out.println("Con : " +Bob.getCarac("Constitution"));
+		System.out.println("Int : " +Bob.getCarac("Intelligence"));
+		System.out.println("Sag : " +Bob.getCarac("Wisdom"));
+		System.out.println("Cha : " +Bob.getCarac("Charisma"));
 	}
 
 }
