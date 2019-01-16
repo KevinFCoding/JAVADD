@@ -13,8 +13,6 @@ public abstract class Characters {
 	public static final String stats[] = {"Strength", "Dexterity", "Constitution", "Intelligence", "Wisdom", "Charisma"};
 	
 	public Characters () {
-		
-		
 		for (String key : stats) {
 			carac.put(key, 10);
 		}
