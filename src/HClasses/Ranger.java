@@ -1,7 +1,10 @@
 package HClasses;
 
-import BASE.Heroes;
+import java.util.HashMap;
+import java.util.Map;
 
+import BASE.Characters;
+import BASE.Heroes;
 
 public class Ranger extends Heroes {
 

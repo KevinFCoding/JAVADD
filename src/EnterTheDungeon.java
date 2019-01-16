@@ -1,4 +1,5 @@
 import HClasses.Wizard;
+import HClasses.Ranger;
 
 public class EnterTheDungeon {
 
@@ -6,7 +7,7 @@ public class EnterTheDungeon {
 		
 		Wizard Kevin = new Wizard("Orc", "Forgeron");
 		
-		System.out.println(Kevin.getCarac("Strength"));
+		System.out.println("Force du personnage: " + Kevin.getCarac("Strength"));
 		System.out.println(Kevin.getCarac("Dexterity"));
 		System.out.println(Kevin.getCarac("Constitution"));
 		System.out.println(Kevin.getCarac("Intelligence"));
