@@ -1,4 +1,6 @@
 package HClasses;
+import java.util.HashMap;
+import java.util.Map;
 
 
 
@@ -7,7 +9,6 @@ import java.util.Map;
 
 import BASE.Characters;
 import BASE.Heroes;
-
 public class Barbarian extends Heroes {
 
 

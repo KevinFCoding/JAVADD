@@ -9,7 +9,7 @@ import BASE.Heroes;
 
 public class Wizard extends Heroes{
 	
-	private final static int bonusCarac[] = {-2,-2,0,4,2,0};
+	private final static int bonusCarac[] = {-2,2,4,5,3,0};
 	
 	private static final Map<String, Integer> bonusMap = new HashMap<>();{
 			for(int i = 0; i < Characters.stats.length; ++i) {

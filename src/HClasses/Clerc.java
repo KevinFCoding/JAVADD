@@ -6,7 +6,6 @@ import java.util.Map;
 
 import BASE.Characters;
 import BASE.Heroes;
-
 public class Clerc extends Heroes {
 
 
