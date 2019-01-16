@@ -17,4 +17,14 @@ public abstract class Characters {
 			carac.put(key, 10);
 		}
 	}
+	public int getCarac(String keyString) {
+		return carac.get(keyString);
+	}
+	public Map<String, Integer> getAllCarac() {
+		return carac;
+	}
+	/*public void setCarac(String keyCarac, int value) {
+		if(stats.St)
+		carac.put(keyCarac, value);
+	}*/
 }

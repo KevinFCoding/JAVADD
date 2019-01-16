@@ -24,8 +24,8 @@ public class Wizard extends Heroes{
 	}
 	public int getCarac(String keyString) {
 		return carac.get(keyString);
-		
 	}
+	
 }
 
 	
